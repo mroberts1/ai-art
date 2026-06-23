@@ -6,10 +6,6 @@
 # Claude Code
 .claude/
 
-# Raw source material (copyrighted books/papers — kept locally only)
-raw/books/
-raw/papers/
-
 # macOS
 .DS_Store
 **/.DS_Store
