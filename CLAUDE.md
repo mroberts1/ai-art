@@ -4,8 +4,7 @@ This Obsidian vault is an LLM-managed knowledge base. The LLM writes and maintai
 
 ## Research Focus
 
-_(To be defined as content is added to this vault.)_
-
+The focus of this vault is AI art, design, and aesthetics: new/emerging artistic practices in generative images, video, animation, and motion graphics, and theoretical elaborations on these.
 ## Directory Structure
 
 ```
